@@ -11,7 +11,6 @@ struct Person
 };
 
 int main()
-
 {
   Person Person;
   cin>>Person.toes;
@@ -19,9 +18,6 @@ int main()
   cin>>Person.shoulder;
   cin>>Person.head;
   
-	
-	
-	
-	return 0;
+ 	return 0;
 }
 	
